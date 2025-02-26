@@ -28,13 +28,6 @@ A **detailed comparison** of various techniques is provided based on:
 - **Reduction in Compilation Time**
 - **Improvement in Code Quality**
 
-## 📂 Dataset and Benchmarks
-- **Google Code Jam Dataset**
-- **SPEC CPU 2006/2017**
-- **LLVM Test Suite**
-- **cBench and CHStone Benchmarks**
-- **Kaggle and OpenCL Kernel Datasets**
-
 ## 🔬 Results
 - **ML-based methods** improve **code classification accuracy up to 85%**.
 - **DL-based approaches** show **12-16% accuracy improvement** in CPU/GPU mapping tasks.
