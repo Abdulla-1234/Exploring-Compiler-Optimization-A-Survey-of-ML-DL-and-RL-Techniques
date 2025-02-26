@@ -66,7 +66,14 @@ A **detailed comparison** of various techniques is provided based on:
 This project is **for research and educational purposes only**. The findings should be used as references for compiler optimization improvements and **not for direct integration into commercial compiler systems**.
 
 ## 📜 Citation
-If you find this project useful, please cite:
+If you find this project useful, please cite the relevant section:
+
+### 🧠 Machine Learning (ML) in Compiler Optimization
+
+### 🔬 Deep Learning (DL) in Compiler Optimization
+
+### 🤖 Reinforcement Learning (RL) in Compiler Optimization
+
 
 ---
 
