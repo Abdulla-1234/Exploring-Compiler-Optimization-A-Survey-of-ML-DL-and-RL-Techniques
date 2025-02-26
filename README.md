@@ -47,5 +47,27 @@ A **detailed comparison** of various techniques is provided based on:
 - Exploring **real-time optimization and inference speed improvements**.
 - **Expanding to other domains**, such as **language translation and static analysis**.
 
+## 🛠️ Technologies Used
+- **Python**
+- **LLVM Compiler Framework**
+- **TensorFlow / PyTorch**
+- **Reinforcement Learning Libraries (RLlib, OpenAI Gym)**
+- **Optimization Frameworks (Bayesian Optimization, AutoML)**
+
+## 📷 Visual Representations
+| Optimization Technique | Model Used | Performance Gain |
+|-----------------------|------------|-----------------|
+| ML-based Optimization | Decision Trees, Bayesian Models | 1.29x Speedup |
+| DL-based Optimization | CNN, GNN, LSTM | 16% Better Accuracy |
+| RL-based Optimization | PPO, DQN, Policy Gradient | 22% Faster Compilation |
+| Hybrid Approach | ML + RL, DL + RL | Best Overall Performance |
+
+## 🏥 Disclaimer
+This project is **for research and educational purposes only**. The findings should be used as references for compiler optimization improvements and **not for direct integration into commercial compiler systems**.
+
 ## 📜 Citation
 If you find this project useful, please cite:
+
+---
+
+🔗 **For more details, check out the full project report in this repository.**
